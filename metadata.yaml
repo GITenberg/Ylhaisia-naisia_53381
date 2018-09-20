@@ -1,0 +1,41 @@
+_repo: Ylhaisia-naisia_53381
+_version: 0.0.1
+alternative_title: A group of noble dames. Finnish
+contributor:
+  translator:
+    agent_name: Hollo, J. A. (Juho Aukusti)
+    alias: Hollo, Juho Aukusti
+    birthdate: 1885
+    deathdate: 1967
+    gutenberg_agent_id: '47352'
+    url: http://www.gutenberg.org/2009/agents/47352
+creator:
+  author:
+    agent_name: Hardy, Thomas
+    birthdate: 1840
+    deathdate: 1928
+    gutenberg_agent_id: '23'
+    url: http://www.gutenberg.org/2009/agents/23
+    wikipedia: http://en.wikipedia.org/wiki/Thomas_Hardy
+description: ''
+gutenberg_bookshelf: General Fiction
+gutenberg_issued: '2016-10-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '53381'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Wessex (England) -- Fiction'
+- !lcsh 'Nobility -- Fiction'
+- !lcsh 'Women -- England -- Fiction'
+- GITenberg
+tableOfContents: Esipuhe -- Wessexin ensimmäinen kreivitär -- Barbara, sukujaan Grebe
+  -- Stonehengen markiisitar -- Lady Mottisfont -- Lady Icenway -- Squire Petrick'in
+  lady -- Anna, lady Baxby -- Lady Penelope -- Hamptonshiren herttuatar -- Jalosukuinen
+  Laura.
+title: Ylhäisiä naisia
+url: http://www.gutenberg.org/ebooks/53381
